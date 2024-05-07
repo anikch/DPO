@@ -4,4 +4,4 @@ The repo is split across branches. This branch is for Direct Preference Optimiza
 
 ## Helper scripts
 
-- hh_rlhf_dpo.ipynb allows for dataset generation if you wish to prepare datasets yourself.
+- hh_rlhf_dpo.ipynb allows for dataset generation
