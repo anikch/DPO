@@ -1,6 +1,6 @@
-# ADVANCED FINE-TUNING REPO
+# DPO codebase
 
-The repo is split across branches. This branch is for Direct Preference Optimization (DPO).
+DPO.ipynb
 
 ## Helper scripts
 
